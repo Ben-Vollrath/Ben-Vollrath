@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>I am a Business Informatics student at TU Darmstadt.
+💫 About Me:<br>I am a Business Information Technology student at TU Darmstadt.
 
 
 ## 🌐 Socials:
