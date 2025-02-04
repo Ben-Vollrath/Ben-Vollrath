@@ -1,7 +1,7 @@
 # 💫 About Me:
 💫 About Me:<br>I am a Business Information Technology student at TU Darmstadt.
 
-I develop mobile apps using flutter, check them out [here](https://play.google.com/store/apps/developer?id=Vollrath)
+Im currently working on [waitlst](https://waitlst.vollrath.io)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-vollrath-960038274/) 
